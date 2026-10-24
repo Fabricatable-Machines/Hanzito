@@ -1,0 +1,23 @@
+Notes headstock 4th axis:
+
+Future components:
+
+- https://www.tyma.eu/products/40-5m-25-type-6f-steel/
+- https://www.omc-stepperonline.com/a6-series-1000w-rs485-ac-servo-motor-kit-3000rpm-3-18nm-w-brake-17-bit-absolute-encoder-ip67-a6-rs1000h2b1-m17
+- https://www.cncprofi.eu/en/category-11/Timing-belt-pulleys-HTD-5M-bore-fi-14---19-mm-category-123/?srsltid=AfmBOordP1SN_Xm_ordDAsHW946oaFuLmh4KUWv17sAqB--Y4L3RyASc
+- https://uk.misumi-ec.com/vona2/detail/221304438366/?KWSearch=htd+5m&searchFlow=results2products
+- https://uk.misumi-ec.com/vona2/detail/221304438265/?CategorySpec=00000005696%3A%3Ax&list=PageCategory
+
+Current components:
+
+- https://www.omc-stepperonline.com/p-series-nema-23-closed-loop-stepper-motor-2nm-283-28oz-in-with-electromagnetic-brake-23e1kbk20-20
+- 9mm wide gt2 timing belt - 280mm lenght / 140 teeth
+- 20 tooth gt2 timing pulley for 9mm belt. 8mm bore
+
+
+EA+ - Blå
+EA- - Blåhvit
+EB+ - Grønn
+EB- - Grønnhvit
+VCC - Oransje
+GND - Oransjehvit - trenger endehylse

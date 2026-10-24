@@ -1,0 +1,7 @@
+brake for spindle shaft research:
+
+aliexpress search term: power off electromagnetic brake or disc brake (bicycle)
+
+jx automation looks like a good store: https://jxautomation.aliexpress.com/store/910315339?spm=a2g0o.store_pc_allItems_or_groupList.pcShopHead_2000019277833.0
+
+use bicle type? or just go with the servo type brake?

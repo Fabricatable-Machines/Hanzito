@@ -1,0 +1,5 @@
+10 - 24 UNC
+
+diamter inch=0.19
+diameter mm=4.826
+pitch=1.059mm
