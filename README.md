@@ -1,8 +1,8 @@
 # Hanzito
-*A five axis CNC lathe and mill with a focus on reuse of discarded components*
+*A five axis CNC lathe and mill with a focus on reuse of discarded components. By Jens Dyvik*
 
 
-Current status:
+**Current status:**
 - The headstock has been tested on a ShopBot PRS Alpha 96-48
 - A dumpster dived industrial linear actuator has been renovated and will become the backbone of Hanzito
 - Parts for making to more linear axis and one rotary has been ordered. See BOM
